@@ -1,4 +1,4 @@
-## Exp 8: AI-Powered Art Style Transformation
+## Exp 9: AI-Powered Art Style Transformation
 ## Aim
 To generate a stylized digital anime version of a given classic realism portrait using AI, while preserving the character’s original expression and pose.
 
