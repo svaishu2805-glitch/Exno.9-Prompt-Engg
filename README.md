@@ -1,46 +1,34 @@
-# Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
+## Exp 8: AI-Powered Art Style Transformation
+## Aim
+To generate a stylized digital anime version of a given classic realism portrait using AI, while preserving the character’s original expression and pose.
 
-# Date: 
-# Register no.:
-# Aim: To perform the Exploration of Prompting Techniques for Video Generation
-# Algorithm: Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. Procedure:
-Familiarize Yourself with Video Generation Models:
-Begin by exploring AI tools capable of video generation from text prompts. Popular models for video generation include:
-Runway Gen-2
-Synthesia
-Pictory
-DeepBrain
-Understand the capabilities and limitations of each tool before starting the experiment.
-Create Simple Prompts for Video Generation:
-Start with simple prompts to generate short videos. These prompts should describe the general subject or activity.
-Example prompt: "A person walking in a park."
-Experiment with More Detailed Prompts:
-Gradually refine your prompts by adding specific details, such as the setting, lighting, actions, or expressions.
-Example prompt: "A person in a red jacket walking along a sunny park path, with birds flying in the sky, and a dog running beside them."
-Add Time and Motion Elements:
-Incorporate aspects like timing, transitions, or camera movement in your prompts.
-Example prompt: "A time-lapse video of the sun setting over the ocean, with the camera slowly zooming out from a beach, capturing the waves and changing colors in the sky."
-Test Different Video Styles:
-Experiment with different styles of video generation, such as animations, live-action, cinematic, or artistic.
-Example prompt: "An animated scene of a futuristic city at night, with glowing neon lights, flying cars, and a bustling crowd of people."
-Iterate and Adjust Prompts:
-Evaluate the generated video and refine the prompt if needed. Consider aspects like the pacing, transitions, and consistency of motion in the video.
-Example: After reviewing, refine the prompt to add more details about the camera angles or actions: "A cinematic shot of a car speeding through a neon-lit city at night, with reflections on the wet street and a high-speed chase scene."
-Generate Multiple Versions:
-Generate multiple versions of the same prompt with slight variations to compare how the video output differs based on the phrasing of the prompt.
-Save and Compare Outputs:
-Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
+## Procedure
+Select a portrait image in classic realism style as the input.
+Write a prompt describing how the portrait should be transformed into an anime style.
+Ensure the prompt specifies:
+Anime style (digital anime, cel-shaded, vibrant, etc.).
+Retain character’s expression and pose.
+Details like smooth line art, stylized coloring, or background preferences.
+## Example prompt:
+“Convert this classic realism portrait into a vibrant anime-style digital artwork. Keep the character’s original facial expression and pose intact, while applying anime-style shading, big expressive eyes, and stylized hair highlights.”
 
+Input the portrait and crafted prompt into the AI image-generation tool.
+Generate and review the output.
+Refine the prompt if needed to adjust colors, proportions, or artistic effects.
+## Instructions
+Use style-specific keywords (anime, manga, cel-shaded, vibrant colors).
+Mention what should not change (pose, expression, overall likeness).
+Use iterative prompting for better results.
+If required, add artist inspiration styles (e.g., “inspired by Makoto Shinkai” or “Studio Ghibli-style”).
+## Sample Input–Output Prompt :
+"Realism portrait of an older gentleman with a gentle smile, dark background"| “Transform this portrait into an anime style while preserving his gentle smile and relaxed pose. Use soft anime shading, defined facial lines, and subtle highlights in the hair, with a simple dark-toned background.” | "Anime-style portrait of the gentleman with his smile intact, smoother shading, stylized hair, and preserved pose" |
+![Uploading image.png…]()
 
-# Result: The Prompt of the above task executed successfully
+| Realism portrait of a young boy with curious eyes, light background | “Render this young boy's portrait in a cute anime style. Preserve his curious expression and slightly upward gaze. Give him large, innocent anime eyes and softly textured hair. The background should be a bright, stylized outdoor setting.” | Cute anime-style portrait of a boy, keeping his curious expression and pose, with large eyes and a bright, stylized background |
+## Conclusion
+By carefully crafting prompts, a classic realism portrait can be successfully converted into a digital anime-style artwork, maintaining the subject’s pose and expression while transforming the overall aesthetic. This experiment demonstrated the effective use of AI to convert a classic realism portrait into a vibrant anime-style artwork while preserving the subject’s pose, facial expression, and overall likeness. By crafting precise prompts with style-specific keywords and iteratively refining them, the AI generated smooth digital shading, expressive eyes, and stylized details that matched the intended aesthetic. The process highlights the importance of prompt engineering in achieving accurate, creative results. Overall, this experiment shows that AI can be a powerful tool for digital art transformation, enabling quick, high-quality stylistic changes and expanding possibilities for artists, designers, and educational applications.
+![Uploading image.png…]()
 
-
-
-
-
-
-
-
-
-# Result:
+## Result
+Thus prompt is executed successfully.The AI tool successfully converted classic realism portraits into vibrant anime-style artworks while preserving each subject’s pose and expression. Carefully crafted prompts and iterative refinements produced smooth shading, expressive eyes, and accurate likeness. This demonstrates that effective prompt engineering enables precise, creative AI-driven art transformations quickly and efficiently.
 
