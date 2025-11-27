@@ -1,8 +1,8 @@
 # Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
 
-# Date: 
-# Register no.:
+# Register no.:212223020029
 # Aim: To perform the Exploration of Prompting Techniques for Video Generation
+
 # Algorithm: Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. Procedure:
 Familiarize Yourself with Video Generation Models:
 Begin by exploring AI tools capable of video generation from text prompts. Popular models for video generation include:
@@ -32,7 +32,7 @@ Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
 
 # output:
-Uploading Hailuo_Video_“A cinematic shot of a busy ci_450476998675304457.mp4…
+https://github.com/user-attachments/assets/84eb63f8-13fd-4f52-9c70-c3051ece9cdf
 
 https://github.com/user-attachments/assets/6b12ee75-075f-4b75-845e-2a05bfb1f88a
 
