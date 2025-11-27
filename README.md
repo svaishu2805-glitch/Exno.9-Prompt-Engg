@@ -36,4 +36,4 @@ https://github.com/user-attachments/assets/84eb63f8-13fd-4f52-9c70-c3051ece9cdf
 
 https://github.com/user-attachments/assets/6b12ee75-075f-4b75-845e-2a05bfb1f88a
 
-# Result: The Prompt of the above task executed successfullyt.
+# Result: The Prompt of the above task executed successfully.
