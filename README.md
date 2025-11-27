@@ -31,16 +31,11 @@ Generate multiple versions of the same prompt with slight variations to compare 
 Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
 
+## output:
+Uploading Hailuo_Video_“A cinematic shot of a busy ci_450476998675304457.mp4…
 
-# Result: The Prompt of the above task executed successfully
-
-
-
-
+Uploading Hailuo_Video__A cinematic space exploration_450479567363563527.mp4…
 
 
 
-
-
-# Result:
-
+# Result: The Prompt of the above task executed successfully.
